@@ -14,7 +14,5 @@
       "wpscholar\\": ""
     }
   },
-  "suggest": {
-    "wp-forge/collection": "Package replaces wpscholar/collection"
-  }
+  "abandoned": "wp-forge/collection"
 }
